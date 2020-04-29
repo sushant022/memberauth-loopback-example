@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDS": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb+srv://admin:abc123ABC@cluster0-g9c58.mongodb.net/MemberAuth?retryWrites=true&w=majority",
+    "database": "",
+    "password": "",
+    "name": "mongoDS",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
